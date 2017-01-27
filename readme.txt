@@ -1,1 +1,0 @@
-The file "LogRegMar2017" is the source code. It reads data from "Project1_data_new_version2.csv" file and write prediction in "prediction.csv" file
